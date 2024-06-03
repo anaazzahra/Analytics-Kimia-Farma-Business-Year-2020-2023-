@@ -33,3 +33,8 @@ Kimia Farma merupakan perusahaan yang bergerak dalam bidang farmasi sejak tahun 
 
 # *Data Processing*
 Sebelum melakukan data processing, terlebih dahulu pastikan data sudah bersih dan siap untuk dianalisis lebih lanjut. Pada tugas ini, analisis data dilakukan di Google Big Query dan visualisasi data di Google Looker Studio. Pengerjaan tugas ini sesuai dengan perunjuk yang sudah diberikan oleh Rakamin sebelumnya. Tugas ini hanya menampilkan beberapa agregasi dengan menerapkan fungsi aggregasi pada SQl, serta melakukan melakukan fungsi JOIN dan CASE...WHEN untuk memanipulasi kategori data yang dibutuhkan. 
+
+# *Data Insight*
+Berdasarkan hasil query dan visualisasi yang sudah dilakukan, selama tiga tahun sejak tahun 2020 sampai 2023, transaksi paling tinggi terjadi wilayah Jawa Barat. Tidak ada perbedaan yang signifikan profit penjualan selama tiga tahun, namun pendapatan penjualan juga tidak menunjukkan grafik yang meningkat setiap tahunnya. Pendapatan tertinggi terjadi pada tahun 2022 dan pendaatan terendah terjadi pada tahun 2021. Apotek dengan nama Kimia Farma-Apotek mendapatkan rata-rata rating transaksi paling tinggi. 
+
+# *Rekomendasi*
